@@ -7,7 +7,7 @@
 Automated Testing for Singlish to Sinhala Transliteration System
 
 ##  Repository
-
+https://github.com/sulakshiniDilsara/IT23228726_K.H.S.D.Sewwandi_ITPM.git
 
 ---
 
